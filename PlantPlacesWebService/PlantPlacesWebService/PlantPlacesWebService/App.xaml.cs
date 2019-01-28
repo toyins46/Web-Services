@@ -16,7 +16,9 @@ namespace PlantPlacesWebService
 
         protected override void OnStart()
         {
+            //fsdfdsf
             // Handle when your app starts
+            Console.WriteLine("Hello");
         }
 
         protected override void OnSleep()
