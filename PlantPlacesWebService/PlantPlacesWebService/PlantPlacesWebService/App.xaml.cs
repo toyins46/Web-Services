@@ -22,6 +22,7 @@ namespace PlantPlacesWebService
         protected override void OnSleep()
         {
             // Handle when your app sleeps
+            Console.WriteLine("Hello");
         }
 
         protected override void OnResume()
